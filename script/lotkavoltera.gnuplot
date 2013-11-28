@@ -1,5 +1,5 @@
 set terminal pngcairo size 700,500 enhanced font 'Verdana,11'
-set output 'lotkavoltera.png'
+set output 'img/lotkavoltera.png'
 
 #set logscale x
 

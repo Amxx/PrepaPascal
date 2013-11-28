@@ -50,6 +50,6 @@ echo "###################################"
 echo "#       DISPLAYING RESULTS        #"
 echo "###################################"
 
-eog SIR.png
-#eog SIR5.png
-#eog lotkavoltera.png
+eog img/SIR.png
+#eog img/SIR5.png
+#eog img/lotkavoltera.png

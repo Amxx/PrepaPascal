@@ -1,5 +1,5 @@
 set terminal pngcairo size 700,500 enhanced font 'Verdana,11'
-set output 'SIR5.png'
+set output 'img/SIR5.png'
 
 #set logscale x
 
